@@ -3,9 +3,9 @@ Clean logic ⚙️, sharp interfaces 💻, and performance that actually matters
 
 🧠 Core Stack:
 
-Backend: Laravel (PHP), Node.js, MySQL
+Backend: Laravel (PHP), MySQL
 
-Frontend: React, TypeScript, JavaScript, Bootstrap, HTML, CSS
+Frontend: vue-JS, TypeScript, JavaScript, Tailwind, HTML, CSS
 
 
 Focused on scalable systems and business-driven products — dashboards, CRMs, and management tools that turn complexity into clarity.
